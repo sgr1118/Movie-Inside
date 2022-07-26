@@ -1,4 +1,4 @@
-# 1. Team Intreodution
+# 1. Team Introdution
 팀명 : Movie Inside
 조장 : 손기락
 팀원 : 이진욱, 김동영
